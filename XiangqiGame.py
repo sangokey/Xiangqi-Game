@@ -23,7 +23,7 @@ class XiangqiGame:
                        [Soldier("red"), None, Soldier("red"), None,
                         Soldier("red"), None, Soldier("red"), None, Soldier("red")],
                        [None, None, None, None, None, None, None, None, None],
-                       [None, None, None, None, None, None, None, None, None],
+                       [None, None, None, None, None, None, None, None, gam1None],
                        [Soldier("black"), None, Soldier("black"), None,
                         Soldier("black"), None, Soldier("black"), None, Soldier("black")],
                        [None, Cannon("black"), None, None, None, None, None, Cannon("black"), None],
