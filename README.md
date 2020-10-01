@@ -16,7 +16,7 @@ I have created a command-line version of the Xiangqi Game.
 A very popular board game in China, similar to chess.  
 
 Example Xiangqi Board:  
-![](images/XiangqiBoard.png)  
+![](images/XiangqiBoard.png = 100x)  
 
 
 
@@ -28,4 +28,4 @@ Example Xiangqi Board:
 4. Play the game!  
 
 Example:  
-![](images/example move.jpg)  
+![](images/example_move.JPG)  
