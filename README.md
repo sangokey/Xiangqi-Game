@@ -16,7 +16,7 @@ I have created a command-line version of the Xiangqi Game.
 A very popular board game in China, similar to chess.  
 
 Example Xiangqi Board:  
-<img src="images/example_move.JPG" width="250" height="250">
+<img src="images/XiangqiBoard.PNG" width="250" height="250">
 
 
 
